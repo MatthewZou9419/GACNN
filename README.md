@@ -7,4 +7,5 @@ Based on [GACNN: TRAINING DEEP CONVOLUTIONAL NEURAL NETWORKS WITH GENETIC ALGORI
 * *GradientDescentCNN.ipynb* trains traditional CNN optimized by adam.
 
 For more detail, please go to [my blog](https://blog.csdn.net/m0_37343611/article/details/102895738)
+
 Have fun!
